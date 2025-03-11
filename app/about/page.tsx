@@ -105,7 +105,7 @@ export default function AboutPage() {
                       maxWidth: '500px',
                     }}
                   >
-                    We're a team of passionate creators, innovators, and problem-solvers dedicated to transforming ideas into impactful digital experiences. Our journey began with a simple mission: to help brands thrive in the digital age.
+                    We are a team of passionate creators, innovators, and problem-solvers dedicated to transforming ideas into impactful digital experiences. Our journey began with a simple mission: to help brands thrive in the digital age.
                   </Text>
                 </motion.div>
               </Grid.Col>

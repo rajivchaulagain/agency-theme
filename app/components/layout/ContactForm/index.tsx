@@ -102,7 +102,7 @@ export function ContactForm({ opened, onClose, isDark }: ContactFormProps) {
               lineHeight: 1.7,
             }}
           >
-            Have a question or want to work together? Fill out the form below and we'll get back to you shortly.
+            Have a question or want to work together? Fill out the form below and we will get back to you shortly.
           </Text>
 
           <Group grow mb="md">

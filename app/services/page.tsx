@@ -100,7 +100,7 @@ export default function ServicesPage() {
                 }}
               >
                 We offer comprehensive digital solutions tailored to your unique needs. 
-                From design to development, we're here to bring your vision to life.
+                From design to development, we are here to bring your vision to life.
               </Text>
             </Stack>
           </Container>
@@ -366,7 +366,7 @@ export default function ServicesPage() {
                         lineHeight: 1.8,
                       }}
                     >
-                      Let's discuss how we can help transform your business with our comprehensive digital solutions.
+                      Lets discuss how we can help transform your business with our comprehensive digital solutions.
                     </Text>
                     <Group mt={40}>
                       <Button

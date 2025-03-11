@@ -1,5 +1,5 @@
 'use client'
-import { Container, Grid, Text, Title, Stack, Group, Button, TextInput, Box, ActionIcon, Divider } from '@mantine/core';
+import { Container, Grid, Text, Image, Stack, Group, Button, TextInput, Box, ActionIcon, Divider } from '@mantine/core';
 import { motion } from 'framer-motion';
 import { IconBrandTwitter, IconBrandInstagram, IconBrandLinkedin, IconBrandGithub, IconBrandDribbble, IconArrowRight } from '@tabler/icons-react';
 import Link from 'next/link';
@@ -78,7 +78,7 @@ export function Footer() {
             <Stack gap={32}>
               <div>
                 <Box mb={24}>
-                  <img src="/logo.svg" alt="Logo" style={{ height: '32px' }} />
+                  <Image src="/logo.svg" alt="Logo" style={{ height: '32px' }} />
                 </Box>
                 <Text
                   size="sm"
@@ -89,7 +89,7 @@ export function Footer() {
                     maxWidth: '400px',
                   }}
                 >
-                  We're on a mission to help developers build amazing products faster. Join our community of over 100,000 developers.
+                  We are on a mission to help developers build amazing products faster. Join our community of over 100,000 developers.
                 </Text>
               </div>
 

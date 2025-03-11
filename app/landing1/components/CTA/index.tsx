@@ -97,7 +97,7 @@ export function CTA() {
                   lineHeight: 1.6,
                 }}
               >
-                Let's work together to create something extraordinary. Our team is ready to help you achieve your digital goals.
+                Lets work together to create something extraordinary. Our team is ready to help you achieve your digital goals.
               </Text>
 
               <Group justify="center" gap="md">

@@ -882,7 +882,7 @@ export default function CreativeStudioLanding() {
                             fontStyle: 'italic',
                           }}
                         >
-                          "{testimonial.quote}"
+                        {'"' + testimonial.quote + '"'}
                         </Text>
                         <Group mt="xl">
                           <Avatar
