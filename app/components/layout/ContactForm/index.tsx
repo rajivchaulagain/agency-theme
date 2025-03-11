@@ -163,10 +163,7 @@ export function ContactForm({ opened, onClose, isDark }: ContactFormProps) {
               label: {
                 fontFamily: 'Plus Jakarta Sans, sans-serif',
                 marginBottom: '8px',
-              },
-              item: {
-                fontFamily: 'Plus Jakarta Sans, sans-serif',
-              },
+              }
             }}
           />
 
