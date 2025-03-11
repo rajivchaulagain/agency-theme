@@ -6,8 +6,6 @@ import {
   mantineHtmlProps,
   createTheme,
 } from "@mantine/core";
-import { Header } from './components/layout/Header';
-import { Footer } from './components/layout/Footer';
 
 const appTheme = createTheme({
   primaryColor: 'blue',
@@ -35,7 +33,7 @@ export default function RootLayout({
         />
       </head>
       <body>
-        <MantineProvider defaultColorScheme="light" theme={appTheme}>
+        <MantineProvider defaultColorScheme="dark" theme={appTheme}>
           {children}
         </MantineProvider>
       </body>
