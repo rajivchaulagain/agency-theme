@@ -340,7 +340,7 @@ export default function ProductPage() {
                     </Text>
                     <Group align="flex-end" mb="xl">
                       <Text
-                        size={48}
+                        fz={48}
                         fw={700}
                         variant="gradient"
                         gradient={{ from: product.gradient.from, to: product.gradient.to }}

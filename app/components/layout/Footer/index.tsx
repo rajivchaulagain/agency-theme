@@ -93,7 +93,7 @@ export function Footer() {
         <Grid>
           {/* Enhanced Company Info */}
           <Grid.Col span={{ base: 12, md: 4 }}>
-            <Stack spacing="xl">
+            <Stack gap="xl">
               <motion.div
                 initial={{ opacity: 0, y: 20 }}
                 whileInView={{ opacity: 1, y: 0 }}
