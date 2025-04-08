@@ -1,8 +1,18 @@
-# Mantine Next Template
+# 🚀 Mantine Next.js Agency Theme
 
-Get started with the template by clicking `Use this template` button on the top of the page.
+A modern, flexible, and responsive landing page template built with [Mantine UI v7](https://mantine.dev/) and Next.js — perfect for agencies, SaaS startups, portfolios, and multi-concept websites.
 
-[Documentation](https://mantine.dev/guides/next/)
-# agency-theme # agency-theme
-# agency-theme
-# agency-theme
+![preview](https://agency-theme-kappa.vercel.app/landing1)
+
+## ✨ Features
+
+- ⚡️ Built with **Mantine UI v7** + **Next.js 14**
+- 🎨 Modern design system with custom theming support
+- 📱 Fully responsive layout
+- 🌙 Dark mode ready
+- 💡 Easily customizable sections: Hero, Features, Testimonials, CTA, and more
+- 🧩 Modular & clean code structure
+- 🪄 Framer Motion animations
+- 📦 SEO optimized & production ready
+
+---
